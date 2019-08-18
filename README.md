@@ -1,4 +1,4 @@
-# Jogo_Advinhar_Numero
+# Jogo Advinhar Número
   - Aplicativo em React de um Jogo que advinha o número escolhido pelo o usuário (entre 0 e 300) <br>
   - Busca binária <br>
   - Hooks <br>
